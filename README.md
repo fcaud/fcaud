@@ -6,6 +6,6 @@ I love to learn new things (code or otherwise) and I'm always thinking about wha
 
 Connect with me:
 
-<a href="https://www.linkedin.com/in/freya-caudwell/" target="_blank">
+<a href="https://www.linkedin.com/in/freya-caudwell/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20px">
 </a>
